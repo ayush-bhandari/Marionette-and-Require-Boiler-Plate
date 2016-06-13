@@ -1,0 +1,10 @@
+vendors:
+
+backbone.js => http://backbonejs.org/
+backbone.localStorage.js => https://github.com/jeromegn/Backbone.localStorage
+backbone.marionette.js => http://marionettejs.com/
+jquery.js => http://jquery.com/
+require-text.js => https://github.com/requirejs/text
+require.js => http://requirejs.org/
+underscore.js => http://underscorejs.org/
+
